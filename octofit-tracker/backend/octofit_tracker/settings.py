@@ -6,7 +6,7 @@ SECRET_KEY = 'your-secret-key'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', 'psychic-rotary-phone-jj5xw4pj6v55c54q4-8000.app.github.dev']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
